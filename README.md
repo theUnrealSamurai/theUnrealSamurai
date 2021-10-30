@@ -1,5 +1,8 @@
-### Heyooo! I'm Roshan👋
+# Heyooo! I'm Roshan👋
 bringing ideas to life since 2015
+
+## Connections!
+
 
 ![](https://github.com/theUnrealSamurai/theUnrealSamurai/blob/main/assets/git_banner.svg)
 <!--
