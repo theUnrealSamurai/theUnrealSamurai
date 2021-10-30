@@ -18,12 +18,8 @@ bringing ideas to life since 2015
 <a href="https://python.org" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="https://python.org"  /></a>
 <a href="https://pytorch.org" target="blank"><img align="center" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="https://pytorch.org"  /></a>
 <a href="https://tensorflow.org" target="blank"><img align="center" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="https://tensorflow.org"  /></a>
-
-
-
-tensorflow
-sklearn
-optuna
+<a href="https://sklearn.org" target="blank"><img align="center" src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=sklearn&logoColor=white" alt="https://sklearn.org"  /></a>
+<a href="https://optuna.org" target="blank"><img align="center" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="https://tensorflow.org"  /></a>
 
 
 
