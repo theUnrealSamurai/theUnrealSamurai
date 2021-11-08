@@ -1,8 +1,8 @@
-# Heyooo! I'm Roshan👋 (This page is still under development, I might have stolen some of your property but I'll bring it down soon)
+# Heyooo! I'm Roshan👋 <!-- (This page is still under development, I might have stolen some of your property but I'll bring it down soon) -->
 bringing ideas to life since 2015
 
 
-![](https://github.com/theUnrealSamurai/theUnrealSamurai/blob/main/assets/git_banner.svg)
+<!-- ![](https://github.com/theUnrealSamurai/theUnrealSamurai/blob/main/assets/git_banner.svg) -->
 
 ## Connections!
 
