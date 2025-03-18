@@ -16,11 +16,11 @@ Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything 
 ## Fun Stuff
 - **Languages**: Fluent in English, Tamil, Kannada and Japanese – can ask for directions in Hindi (Beginner, They forced me to learn this).
 - **Hobbies**: Typing faster than you, cycling like a maniac, and finding new ways to make AI do my bidding.  
-- **Achievements**: Bronze medal in Kaggle's COVID-19 detection challenge, some cool object detection models, and too many random projects to list. 😎
+- **Achievements**: Bronze medal in Kaggle's COVID-19 detection challenge, some cool object detection models, and too many random projects to list.
 
 ## Let's Connect!  
 - [Twitter](https://twitter.com/theUnrealSamurai)  
 - [Gmail](mailto:roshan.saravanan001@gmail.com)  
 - [Kaggle](https://kaggle.com/theUnrealSamurai)  
 
-Drop me a message if you want to talk tech, projects, or why cycling is the greatest thing happend to the mankind. 🚴
+Drop me a message if you want to talk tech, projects, or why cycling is the greatest thing happend to the mankind. 
