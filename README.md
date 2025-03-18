@@ -1,9 +1,9 @@
 # Heyooo! 👋  
 Bringing ideas to life since 2015
 
-I’m Roshan Saravanan – AI enthusiast, problem solver, and lover of all things tech. When I’m not building models to automate everything under the sun, you’ll find me speed-typing, biking, or geeking out over new ways to make machines smarter.
+I’m Roshan Saravanan – A linux nerd, problem solver, and Tech. uhhh... Tech. I mean everything.  When I’m not building models to automate everything under the sun, you’ll find me speed-typing, cycling to mordor and back, or geeking out over new ways to make machines smarter.
 
-Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything from defect detection systems to chatbots, and everything in between. 🚀
+Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything from defect detection systems to chatbots, and everything in between. 
 
 ## What I Do
 - **AI & Machine Learning**: Turning data into insights (and sometimes chaos, but mostly insights).
@@ -11,12 +11,11 @@ Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything 
 - **ML Ops**: From Docker containers to FastAPI – keeping things smooth, scalable, and snappy.
 
 ## Skills  
-- **Tech Stack**: Python, PyTorch, TensorFlow, Flask, Docker, Flutter  
-- **Tools**: Git, VS Code, Colab, Kaggle  
-- **Languages**: Fluent in English, Tamil, Kannada – can ask for directions in Japanese (N4 level).
+- **Tech Stack**: Python, PyTorch, TensorFlow, Flask, Docker, Flutter, and other stuff give me documentation and I can work with anything
 
 ## Fun Stuff
-- **Hobbies**: Typing faster than you, biking like a maniac, and finding new ways to make AI do my bidding.  
+- **Languages**: Fluent in English, Tamil, Kannada and Japanese – can ask for directions in Hindi (Beginner, They forced me to learn this).
+- **Hobbies**: Typing faster than you, cycling like a maniac, and finding new ways to make AI do my bidding.  
 - **Achievements**: Bronze medal in Kaggle's COVID-19 detection challenge, some cool object detection models, and too many random projects to list. 😎
 
 ## Let's Connect!  
