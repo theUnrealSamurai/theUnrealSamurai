@@ -1,37 +1,27 @@
-# Heyooo! I'm Roshan👋 <!-- (This page is still under development, I might have stolen some of your property but I'll bring it down soon) -->
-bringing ideas to life since 2015
+# Heyooo! 👋  
+Bringing ideas to life since 2015
 
+I’m Roshan Saravanan – AI enthusiast, problem solver, and lover of all things tech. When I’m not building models to automate everything under the sun, you’ll find me speed-typing, biking, or geeking out over new ways to make machines smarter.
 
-<!-- ![](https://github.com/theUnrealSamurai/theUnrealSamurai/blob/main/assets/git_banner.svg) -->
+Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything from defect detection systems to chatbots, and everything in between. 🚀
 
-## Connections!
+## What I Do
+- **AI & Machine Learning**: Turning data into insights (and sometimes chaos, but mostly insights).
+- **Web & App Development**: Built apps, tools, and some cool stuff on the web.
+- **ML Ops**: From Docker containers to FastAPI – keeping things smooth, scalable, and snappy.
 
-<a href="https://twitter.com/unrealSamurai" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/unrealSamurai"  /></a>
-<a href="mailto:roshan.saravanan001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roshan.saravanan001@gmail.com"  /></a>
-<a href="https://kaggle.com/theUnrealSamurai" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="https://kaggle.com/theUnrealSamurai"/></a>
+## Skills  
+- **Tech Stack**: Python, PyTorch, TensorFlow, Flask, Docker, Flutter  
+- **Tools**: Git, VS Code, Colab, Kaggle  
+- **Languages**: Fluent in English, Tamil, Kannada – can ask for directions in Japanese (N4 level).
 
+## Fun Stuff
+- **Hobbies**: Typing faster than you, biking like a maniac, and finding new ways to make AI do my bidding.  
+- **Achievements**: Bronze medal in Kaggle's COVID-19 detection challenge, some cool object detection models, and too many random projects to list. 😎
 
+## Let's Connect!  
+- [Twitter](https://twitter.com/theUnrealSamurai)  
+- [Gmail](mailto:roshan.saravanan001@gmail.com)  
+- [Kaggle](https://kaggle.com/theUnrealSamurai)  
 
-
-## My Favorites
-
-<a href="https://python.org" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="https://python.org"  /></a>
-<a href="https://pytorch.org" target="blank"><img align="center" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="https://pytorch.org"  /></a>
-<a href="https://tensorflow.org" target="blank"><img align="center" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="https://tensorflow.org"  /></a>
-<a href="https://sklearn.org" target="blank"><img align="center" src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=sklearn&logoColor=white" alt="https://sklearn.org"  /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**theUnrealSamurai/theUnrealSamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Drop me a message if you want to talk tech, projects, or why cycling is the greatest thing happend to the mankind. 🚴
