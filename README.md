@@ -1,9 +1,9 @@
 # Heyooo! 👋  
 Bringing ideas to life since 2015
 
-I’m Roshan Saravanan – A linux nerd, problem solver, and Tech. uhhh... Tech. I mean everything.  When I’m not building models to automate everything under the sun, you’ll find me speed-typing, cycling to mordor and back, or geeking out over new ways to make machines smarter.
+I’m Roshan Saravanan – A linux nerd, problem solver, and Tech. uhhh... Tech. I mean everything.  When I’m not building models to automate everything under the sun,I'll be out there on a road-bike roaming all over tokyo.
 
-Currently AI Engineer at Mamiya IT Solutions in Tokyo – working on everything from defect detection systems to chatbots, and everything in between. 
+Currently AI Engineer at Mamiya IT Solutions in Tokyo – Working with mostly Computer vision (Anomalies and defect detection) 
 
 ## What I Do
 - **AI & Machine Learning**: Turning data into insights (and sometimes chaos, but mostly insights).
