@@ -1,26 +1,9 @@
-# Heyooo! 👋  
-Bringing ideas to life since 2015
+# Hey there! I'm Roshan👋  
 
-I’m Roshan Saravanan – A linux nerd, problem solver, and Tech. uhhh... Tech. I mean everything.  When I’m not building models to automate everything under the sun,I'll be out there on a road-bike roaming all over tokyo.
+I've been writing codes since 2016, started as an hobby trying top install a mod in a video game, It looked cooler when I did it, I liked and I'm still writing codes today. 
 
-Currently AI Engineer at Mamiya IT Solutions in Tokyo – Working with mostly Computer vision (Anomalies and defect detection) 
+I specialize at Machine learning. Mostly Natural language and computer vision. 
 
-## What I Do
-- **AI & Machine Learning**: Turning data into insights (and sometimes chaos, but mostly insights).
-- **Web & App Development**: Built apps, tools, and some cool stuff on the web.
-- **ML Ops**: From Docker containers to FastAPI – keeping things smooth, scalable, and snappy.
+Techstack: Python, PyTorch, ScikitLearn, CrewAI, OpenAISDK, faiss, Pinecone, Flask, FastAPI and whatever that has documentation and a need for me. 
 
-## Skills  
-- **Tech Stack**: Python, PyTorch, TensorFlow, Flask, Docker, Flutter, and other stuff give me documentation and I can work with anything
-
-## Fun Stuff
-- **Languages**: Fluent in English, Tamil, Kannada and Japanese – can ask for directions in Hindi (Beginner, They forced me to learn this).
-- **Hobbies**: Typing faster than you, cycling like a maniac, and finding new ways to make AI do my bidding.  
-- **Achievements**: Bronze medal in Kaggle's COVID-19 detection challenge, some cool object detection models, and too many random projects to list.
-
-## Let's Connect!  
-- [Twitter](https://twitter.com/theUnrealSamurai)  
-- [Gmail](mailto:roshan.saravanan001@gmail.com)  
-- [Kaggle](https://kaggle.com/theUnrealSamurai)  
-
-Drop me a message if you want to talk tech, projects, or why cycling is the greatest thing happend to the mankind. 
+Got something? contact me here roshan.saravanan001@gmail.com
