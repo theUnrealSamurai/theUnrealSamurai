@@ -4,6 +4,6 @@ I've been writing codes since 2016, started as an hobby, now do I do it for a li
 
 I specialize at Machine learning. Mostly Natural language and computer vision. 
 
-Techstack: Python, PyTorch, ScikitLearn, CrewAI, OpenAISDK, faiss, Pinecone, Flask, FastAPI and whatever that has documentation. 
+Techstack: Python, PyTorch, ScikitLearn, CrewAI, OpenAISDK, faiss, Pinecone, Flask, FastAPI and basically anything. If it has documentation, Great! If it doesn't have documentation, Just give me some time.
 
 Got something? contact me here roshan.saravanan001@gmail.com
